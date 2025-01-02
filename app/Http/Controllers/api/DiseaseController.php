@@ -2,7 +2,7 @@
 
 namespace App\Http\Controllers\api;
 
-use App\Http\Controllers\Api\BaseController;
+use App\Http\Controllers\api\BaseController;
 use App\Models\Disease;
 use Illuminate\Http\Exceptions\HttpResponseException;
 use Illuminate\Http\Request;
